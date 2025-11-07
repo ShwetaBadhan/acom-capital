@@ -1,0 +1,1 @@
+export { default } from "file:///C:/xampp/htdocs/acom/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"

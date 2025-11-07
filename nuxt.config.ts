@@ -7,11 +7,6 @@ export default defineNuxtConfig({
       allowedHosts: ['acomcapital.vibrantick.org', 'localhost'],
     },
   },
-  css: [
-    // ✅ animate.css for WOW animations
-    'animate.css/animate.min.css'
-  ],
-
 
 
   app: {

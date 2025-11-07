@@ -1,6 +1,6 @@
 <template>
   <div>
-    <PopupForm />
+    
     <!-- Hero Section Start -->
     <div class="hero parallaxie">
       <div class="container">

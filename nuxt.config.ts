@@ -2,7 +2,11 @@
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
-
+  vite: {
+    server: {
+      allowedHosts: ['acomcapital.vibrantick.org', 'localhost'],
+    },
+  },
   css: [
     // ✅ animate.css for WOW animations
     'animate.css/animate.min.css'

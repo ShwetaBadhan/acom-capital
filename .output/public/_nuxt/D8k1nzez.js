@@ -1,1 +1,0 @@
-import{_ as n,x as t,z as o,y as r}from"./BFTsF6SV.js";const a={};function s(c,e){return r(),t("div",null,[...e[0]||(e[0]=[o("h1",null,"Contact U Page",-1)])])}const _=n(a,[["render",s]]);export{_ as default};

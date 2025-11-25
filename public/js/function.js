@@ -269,13 +269,7 @@
       1200: { slidesPerView: 4 },
     },
   });
- function closeModal() {
-            const overlay = document.getElementById('modalOverlay');
-            overlay.style.animation = 'fadeOut 0.3s forwards';
-            setTimeout(() => {
-                overlay.style.display = 'none';
-            }, 300);
-        }
+
 
         function handleSubmit(event) {
             event.preventDefault();
@@ -286,18 +280,33 @@
             closeModal();
         }
 
-        // Show modal on page load
-        window.addEventListener('load', () => {
-            document.getElementById('modalOverlay').style.display = 'flex';
-        });
+   
 
-        // Close on overlay click
-        document.getElementById('modalOverlay').addEventListener('click', (e) => {
-            if (e.target.id === 'modalOverlay') {
-                closeModal();
-            }
-        });
+ document.addEventListener('DOMContentLoaded', () => {
+  const modalOverlay = document.getElementById('modalOverlay');
 
+  setTimeout(() => {
+    if (modalOverlay) {
+      modalOverlay.style.display = 'flex'; // ✅ Shows after 10s
+    }
+  }, 10000);
+
+  if (modalOverlay) {
+    modalOverlay.addEventListener('click', (e) => {
+      if (e.target === modalOverlay) {
+        closeModal();
+      }
+    });
+  }
+});
+
+  // Optional: Prevent form submission default if needed
+  function handleSubmit(event) {
+    event.preventDefault();
+    // Handle form data here (e.g., send to server)
+    alert('Form submitted!');
+    closeModal(); // Optional: close after submit
+  }
         // Add fadeOut animation
         const style = document.createElement('style');
         style.textContent = `

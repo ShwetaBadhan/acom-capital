@@ -1,1 +1,0 @@
-import{L as s}from"./BFTsF6SV.js";const i=s("/images/about-image.jpg"),c=s("/images/icon-company-processing.svg"),a=s("/images/icon-why-choose-1.svg"),m=s("/images/icon-why-choose-2.svg"),e=s("/images/icon-why-choose-3.svg"),t=s("/images/icon-why-choose-4.svg"),g=s("/images/why-choose-image.jpg");export{i as _,c as a,a as b,m as c,e as d,t as e,g as f};

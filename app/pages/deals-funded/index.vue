@@ -1,6 +1,6 @@
 <template>
     <div>
-		
+		<PopupForm />
         <!-- Page Header Start -->
 	<div class="page-header parallaxie">
 		<div class="container">

@@ -1,0 +1,38 @@
+import { _ as __nuxt_component_0 } from './PopupForm-zrmc2ZcR.mjs';
+import { useSSRContext } from 'vue';
+import { ssrRenderAttrs, ssrRenderComponent, ssrRenderAttr } from 'vue/server-renderer';
+import { _ as _imports_0, a as _imports_1, b as _imports_2, c as _imports_3 } from './virtual_public-DdY1ENsL.mjs';
+import { _ as _export_sfc } from './server.mjs';
+import '../routes/renderer.mjs';
+import 'vue-bundle-renderer/runtime';
+import '../_/nitro.mjs';
+import 'node:http';
+import 'node:https';
+import 'node:events';
+import 'node:buffer';
+import 'node:fs';
+import 'node:path';
+import 'node:crypto';
+import 'node:url';
+import 'unhead/server';
+import 'devalue';
+import 'unhead/utils';
+import 'vue-router';
+
+const _sfc_main = {};
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs) {
+  const _component_PopupForm = __nuxt_component_0;
+  _push(`<div${ssrRenderAttrs(_attrs)}>`);
+  _push(ssrRenderComponent(_component_PopupForm, null, null, _parent));
+  _push(`<div class="page-header parallaxie"><div class="container"><div class="row align-items-center"><div class="col-lg-12"><div class="page-header-box"><h1 class="text-anime-style-2" data-cursor="-opaque"> Our Loan Programs </h1><nav class="wow fadeInUp"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="/">home</a></li><li class="breadcrumb-item active" aria-current="page"> Our Loan Programs </li></ol></nav></div></div></div></div></div><div class="page-services"><div class="container"><div class="row"><div class="col-lg-4 col-md-6"><div class="service-item wow fadeInUp" data-wow-delay="0.2s"><div class="icon-box"><img${ssrRenderAttr("src", _imports_0)} alt=""></div><div class="service-content"><h3>Construction Loans</h3><p> Short-term financing to fund land, development, and building costs until the project is completed or refinanced. </p></div><div class="service-btn"><a href="#" class="redmore-btn">learn more</a></div></div></div><div class="col-lg-4 col-md-6"><div class="service-item wow fadeInUp" data-wow-delay="0.4s"><div class="icon-box"><img${ssrRenderAttr("src", _imports_1)} alt=""></div><div class="service-content"><h3>Bridge Loans</h3><p> Short-term financing to secure immediate capital until permanent funding or a sale is completed. </p></div><div class="service-btn"><a href="#" class="redmore-btn">learn more</a></div></div></div><div class="col-lg-4 col-md-6"><div class="service-item wow fadeInUp" data-wow-delay="0.6s"><div class="icon-box"><img${ssrRenderAttr("src", _imports_2)} alt=""></div><div class="service-content"><h3>SBA &amp; USDA Loans</h3><p> Flexible, government-backed financing for business growth, real estate, equipment, and rural development. </p></div><div class="service-btn"><a href="#" class="redmore-btn">learn more</a></div></div></div><div class="col-lg-4 col-md-6"><div class="service-item wow fadeInUp" data-wow-delay="0.8s"><div class="icon-box"><img${ssrRenderAttr("src", _imports_3)} alt=""></div><div class="service-content"><h3>1-4 Unit DSCR/Permanent Loans</h3><p> Investor-focused financing for single-family to fourplex properties, based on rental income (DSCR). </p></div><div class="service-btn"><a href="#" class="redmore-btn">learn more</a></div></div></div><div class="col-lg-4 col-md-6"><div class="service-item wow fadeInUp" data-wow-delay="0.8s"><div class="icon-box"><img${ssrRenderAttr("src", _imports_3)} alt=""></div><div class="service-content"><h3>Commercial Real Estate Permanent Loans</h3><p> Long-term financing for income-producing properties, offering stable rates and flexible terms for acquisitions or refinancing. </p></div><div class="service-btn"><a href="#" class="redmore-btn">learn more</a></div></div></div><div class="col-lg-4 col-md-6"><div class="service-item wow fadeInUp" data-wow-delay="0.8s"><div class="icon-box"><img${ssrRenderAttr("src", _imports_3)} alt=""></div><div class="service-content"><h3>Mezzanine Finance &amp; Preferred Equity</h3><p> Flexible capital solutions that fill the gap between senior debt and equity, helping investors and developers leverage projects, enhance returns, and complete complex capital stacks. </p></div><div class="service-btn"><a href="#" class="redmore-btn">learn more</a></div></div></div><div class="col-lg-4 col-md-6"><div class="service-item wow fadeInUp" data-wow-delay="0.8s"><div class="icon-box"><img${ssrRenderAttr("src", _imports_3)} alt=""></div><div class="service-content"><h3>Equipment Finance</h3><p> Flexible funding to purchase or lease equipment, helping businesses preserve cash flow while upgrading or expanding operations. </p></div><div class="service-btn"><a href="#" class="redmore-btn">learn more</a></div></div></div><div class="col-lg-4 col-md-6"><div class="service-item wow fadeInUp" data-wow-delay="0.8s"><div class="icon-box"><img${ssrRenderAttr("src", _imports_3)} alt=""></div><div class="service-content"><h3>Accounts Receivable/Payable Finance</h3><p> Short-term funding that leverages receivables or manages payables, helping businesses improve cash flow and maintain smooth operations. </p></div><div class="service-btn"><a href="#" class="redmore-btn">learn more</a></div></div></div><div class="col-lg-4 col-md-6"><div class="service-item wow fadeInUp" data-wow-delay="0.8s"><div class="icon-box"><img${ssrRenderAttr("src", _imports_3)} alt=""></div><div class="service-content"><h3>Purchase Order Fiannce</h3><p> Financing that covers supplier costs for approved purchase orders, enabling businesses to fulfill large orders without tying up cash flow. </p></div><div class="service-btn"><a href="#" class="redmore-btn">learn more</a></div></div></div></div></div></div></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("pages/loan-programs/index.vue");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const index = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+
+export { index as default };
+//# sourceMappingURL=index-CXzOomY6.mjs.map

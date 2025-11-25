@@ -74,10 +74,10 @@
                     <div class="footer-links">
                         <h3>usefull links</h3>
                         <ul>
-                            <li><a href="#">support</a></li>
-                            <li><a href="#">services</a></li>
-                            <li><a href="#">term & condition </a></li>
-                            <li><a href="#">privacy policy</a></li>
+                            <li><a href="/contact-us">support</a></li>
+                            <li><a href="/loan-programs">services</a></li>
+                            <li><a href="/terms-conditions">term & condition </a></li>
+                            <li><a href="/privacy-plocy">privacy policy</a></li>
                         </ul>
                     </div>
                     <!-- Footer Links End -->
@@ -88,10 +88,10 @@
                     <div class="footer-links">
                         <h3>our services</h3>
                         <ul>
-                            <li><a href="#">Construction Loans</a></li>
-                            <li><a href="#">Bridge Loans</a></li>
-                            <li><a href="#">SBA & USDA Loans</a></li>
-                            <li><a href="#">Equipment Finance</a></li>
+                            <li><a href="/loan-programs">Construction Loans</a></li>
+                            <li><a href="/loan-programs">Bridge Loans</a></li>
+                            <li><a href="/loan-programs">SBA & USDA Loans</a></li>
+                            <li><a href="/loan-programs">Equipment Finance</a></li>
                         </ul>
                     </div>
                     <!-- Footer Links End -->

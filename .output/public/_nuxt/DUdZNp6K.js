@@ -1,0 +1,1 @@
+import{L as s}from"./DbpygYsM.js";const i=s("/images/icon-company-processing.svg"),c=s("/images/icon-why-choose-1.svg"),a=s("/images/icon-why-choose-2.svg"),e=s("/images/icon-why-choose-3.svg"),m=s("/images/icon-why-choose-4.svg"),t=s("/images/why-choose-image.jpg");export{i as _,c as a,a as b,e as c,m as d,t as e};

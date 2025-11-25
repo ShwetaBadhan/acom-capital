@@ -1,0 +1,1 @@
+import{_ as s,x as t,z as o,y as n}from"./DbpygYsM.js";const r={};function a(c,e){return n(),t("div",null,[...e[0]||(e[0]=[o("h1",{class:"mt-5 mb-5"}," Coming soon ",-1),o("h1",{class:"text-white mt-5 mb-5"},"Coming soon",-1)])])}const i=s(r,[["render",a]]);export{i as default};

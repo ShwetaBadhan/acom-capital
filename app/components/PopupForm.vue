@@ -1,9 +1,9 @@
 <template>
   <div>
-    <div class="modal-overlay" id="modalOverlay">
+    <div class="modal-overlay" id="modalOverlay" style="display: none">
       <div class="modal-container">
         <div class="modal-image">
-          <button class="close-btn" onclick="closeModal()">&times;</button>
+          <button class="close-btn" @click="closeModal">&times;</button>
           <div class="image-content">
             <img src="/images/about-image.jpg" alt="" />
           </div>
@@ -14,9 +14,7 @@
           <hr />
           <form id="contactForm" onsubmit="handleSubmit(event)">
             <div class="input-group mb-2">
-              <span class="input-group-text"
-                ><i class="bi bi-person"></i
-              ></span>
+              <span class="input-group-text"><i class="bi bi-person"></i></span>
               <input
                 type="text"
                 class="form-control"
@@ -24,40 +22,21 @@
               />
             </div>
             <div class="input-group mb-2">
-              <span class="input-group-text"
-                ><i class="bi bi-person"></i
-              ></span>
-              <input
-                type="text"
-                class="form-control"
-                placeholder="Last Name"
-              />
+              <span class="input-group-text"><i class="bi bi-person"></i></span>
+              <input type="text" class="form-control" placeholder="Last Name" />
             </div>
             <div class="input-group mb-2">
               <span class="input-group-text"
                 ><i class="bi bi-telephone"></i
               ></span>
-              <input
-                type="text"
-                class="form-control"
-                placeholder="Phone"
-              />
+              <input type="text" class="form-control" placeholder="Phone" />
             </div>
             <div class="input-group mb-2">
               <span class="input-group-text"
                 ><i class="bi bi-envelope"></i
               ></span>
-              <input
-                type="text"
-                class="form-control"
-                placeholder="Email"
-              />
+              <input type="text" class="form-control" placeholder="Email" />
             </div>
-
-           
-
-           
-
 
             <div class="checkbox-group">
               <input type="checkbox" id="terms" name="terms" required />
@@ -71,8 +50,8 @@
             <button type="submit" class="submit-btn">Submit</button>
 
             <div class="footer-links text-center mt-2">
-              <a href="#" onclick="event.preventDefault()">Privacy Policy</a> |
-              <a href="#" onclick="event.preventDefault()">Terms of Service</a>
+              <a href="/privacy-policy">Privacy Policy</a> |
+              <a href="/terms-conditions">Terms of Service</a>
             </div>
           </form>
         </div>
@@ -81,6 +60,12 @@
   </div>
 </template>
 
-
-
-
+<script setup>
+function closeModal() {
+  const overlay = document.getElementById("modalOverlay");
+  overlay.style.animation = "fadeOut 0.3s forwards";
+  setTimeout(() => {
+    overlay.style.display = "none";
+  }, 300);
+}
+</script>

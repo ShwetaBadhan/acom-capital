@@ -385,32 +385,47 @@ const _routes = [
   {
     name: "index",
     path: "/",
-    component: () => import('./index-Cfuc5SEH.mjs')
+    component: () => import('./index-BPjMbCEn.mjs')
   },
   {
     name: "about-us",
     path: "/about-us",
-    component: () => import('./index-BPF5aGKg.mjs')
+    component: () => import('./index-DF1K5oDu.mjs')
   },
   {
     name: "contact-us",
     path: "/contact-us",
-    component: () => import('./index-3evDfaHG.mjs')
+    component: () => import('./index-tZ2aZFI7.mjs')
   },
   {
     name: "deals-funded",
     path: "/deals-funded",
-    component: () => import('./index-BqjITHe8.mjs')
+    component: () => import('./index-cFlgzeMi.mjs')
   },
   {
     name: "loan-programs",
     path: "/loan-programs",
-    component: () => import('./index-DQKvwV0_.mjs')
+    component: () => import('./index-CXzOomY6.mjs')
+  },
+  {
+    name: "privacy-policy",
+    path: "/privacy-policy",
+    component: () => import('./index-DV0JDkty.mjs')
   },
   {
     name: "loan-application",
     path: "/loan-application",
     component: () => import('./index-DxocrYQw.mjs')
+  },
+  {
+    name: "terms-conditions",
+    path: "/terms-conditions",
+    component: () => import('./index-C4BHugs8.mjs')
+  },
+  {
+    name: "commerical-lending-mastery",
+    path: "/commerical-lending-mastery",
+    component: () => import('./index-CctCIKeI.mjs')
   }
 ];
 const _wrapInTransition = (props, children) => {
@@ -759,7 +774,7 @@ const plugins = [
   components_plugin_4kY4pyzJIYX99vmMAAIorFf3CnAaptHitJgf7JxiED8
 ];
 const layouts = {
-  default: defineAsyncComponent(() => import('./default-D5Rcy6qa.mjs').then((m) => m.default || m))
+  default: defineAsyncComponent(() => import('./default-BnpXtRwW.mjs').then((m) => m.default || m))
 };
 const LayoutLoader = defineComponent({
   name: "LayoutLoader",

@@ -1,6 +1,6 @@
 <template>
   <div>
-    
+    <PopupForm />
     <!-- Hero Section Start -->
     <div class="hero parallaxie">
       <div class="container">
@@ -24,8 +24,8 @@
 
               <!-- Section Btn Start -->
               <div class="hero-btn wow fadeInUp" data-wow-delay="0.25s">
-                <a href="#" class="btn-default">get free quote</a>
-                <a href="#" class="btn-default btn-highlighted"
+                <a href="/loan-application" class="btn-default">get free quote</a>
+                <a href="/loan-application" class="btn-default btn-highlighted"
                   >get free quote</a
                 >
               </div>
@@ -516,7 +516,7 @@
               <!-- Why Choose Body End -->
 
               <div class="why-choose-btn wow fadeInUp" data-wow-delay="1s">
-                <a href="#" class="btn-default">contact now</a>
+                <a href="/contact-us" class="btn-default">contact now</a>
               </div>
             </div>
             <!-- Why Choose Content End -->
@@ -1205,7 +1205,7 @@
 
               <!-- CTA Box Btn Start -->
               <div class="cta-box-btn wow fadeInUp" data-wow-delay="0.25s">
-                <a href="#" class="btn-default btn-highlighted">contact now</a>
+                <a href="/contact-us" class="btn-default btn-highlighted">contact now</a>
               </div>
               <!-- CTA Box Btn End -->
             </div>

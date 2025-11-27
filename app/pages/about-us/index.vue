@@ -1,7 +1,8 @@
 <template>
   <div>
 <PopupForm />
-   <!-- Page Header Start -->
+
+   <!-- Page Header Start new changes-->
 	<div class="page-header parallaxie">
 		<div class="container">
 			<div class="row align-items-center">

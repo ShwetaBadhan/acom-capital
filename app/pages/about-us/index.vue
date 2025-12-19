@@ -34,7 +34,7 @@
                         <!-- About Image Start -->
                         <div class="about-img">
                             <figure class="image-anime">
-                                <img src="/images/about-image.jpg" alt="">
+                                <img src="/images/about/about us_2.png" alt="">
                             </figure>
                         </div>
                         <!-- About Image End -->
@@ -204,7 +204,7 @@
                                     <!-- Vision Image Start -->
                                     <div class="vision-image">
                                         <figure class="">
-                                            <img src="/images/our-vision-img.jpg" alt="">
+                                            <img src="/images/about/our vission_.png" alt="">
                                         </figure>
                                     </div>
                                     <!-- Vision Image End -->
@@ -238,7 +238,7 @@
                                     <!-- Vision Image Start -->
                                     <div class="vision-image">
                                         <figure class="">
-                                            <img src="/images/our-mission-img.jpg" alt="">
+                                            <img src="/images/about/mission.png" alt="">
                                         </figure>
                                     </div>
                                     <!-- Vision Image End -->
@@ -272,7 +272,7 @@
                                     <!-- Vision Image Start -->
                                     <div class="vision-image">
                                         <figure class="">
-                                            <img src="/images/our-value-img.jpg" alt="">
+                                            <img src="/images/about/value.png" alt="">
                                         </figure>
                                     </div>
                                     <!-- Vision Image End -->
@@ -382,7 +382,7 @@
                         <!-- Why Choose Image Start -->
                         <div class="why-choose-img">
                             <figure class="image-anime">
-                                <img src="/images/why-choose-image.jpg" alt="">
+                                <img src="/images/about/why choose  2.png" alt="">
                             </figure>
                         </div>
                         <!-- Why Choose Image End -->

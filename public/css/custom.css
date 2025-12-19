@@ -760,7 +760,7 @@ background: linear-gradient(
   rgba(14, 40, 77, 0.85) 35%,
   rgba(88, 204, 251, 0.2) 100%
 ),
-url('../images/hero-bg.jpg');
+url('../images/banner/slider.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -1123,7 +1123,7 @@ url('../images/hero-bg.jpg');
 	top: 50%;
 	left: 0;
 	transform: translateY(-50%);
-	background: url("../images/icon-about-list.svg") no-repeat;
+	background: url("../images/icons/icon-about-list.png") no-repeat;
 	background-position: left center;
 	background-size: cover;
 	width: 22px;
@@ -1252,7 +1252,7 @@ url('../images/hero-bg.jpg');
 
 .service-item .icon-box img{
 	position: relative;
-	max-width: 36px;
+	max-width: 39px;
 	z-index: 1;
 	transition: all 0.3s ease-in-out;
 }
@@ -2780,7 +2780,7 @@ url('../images/hero-bg.jpg');
   rgba(14, 40, 77, 0.95) 0%,
   rgba(14, 40, 77, 0.85) 35%,
   rgba(88, 204, 251, 0.2) 100%
-), url(../images/page-header-bg.jpg);
+), url(../images/breadcrumb/breadcrum\ 3.png);
 	background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;

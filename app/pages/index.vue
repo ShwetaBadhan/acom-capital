@@ -11,23 +11,21 @@
               <!-- Section Title Start -->
               <div class="section-title">
                 <h1 class="text-anime-style-2" data-cursor="-opaque">
-                  Comprehensive <span>insurance solutions</span> for every stage
-                  of life
+                  Flexible  Capital <span> Commercial Finance</span> 
                 </h1>
+                <h2 class="text-white mt-2">Lending Since 2007 <br> 18+ years of Experience</h2>
                 <p class="wow fadeInUp">
-                  we offer a range of plans tailored to meet your unique needs.
-                  Let us help you find the right protection, so you can live
-                  with peace of mind.
+                  ACOM Capital helps businesses access tailored commercial lending solutions, from SBA and USDA loans to bridge and construction financing. With proven expertise and nationwide reach, we structure deals that drive growth and long-term success.
                 </p>
               </div>
               <!-- Section Title End -->
 
               <!-- Section Btn Start -->
               <div class="hero-btn wow fadeInUp" data-wow-delay="0.25s">
-                <a href="/loan-application" class="btn-default">get free quote</a>
-                <a href="/loan-application" class="btn-default btn-highlighted"
+                <a href="/loan-application" class="btn-default">Contact Us</a>
+                <!-- <a href="/loan-application" class="btn-default btn-highlighted"
                   >get free quote</a
-                >
+                > -->
               </div>
               <!-- Section Btn End -->
 
@@ -86,7 +84,7 @@
               <!-- About Image Start -->
               <div class="about-img">
                 <figure class="image-anime">
-                  <img src="/images/about-image.jpg" alt="" />
+                  <img src="/images/about/about us_.png" alt="" />
                 </figure>
               </div>
               <!-- About Image End -->
@@ -261,7 +259,7 @@
             <div class="swiper-slide">
               <div class="service-item wow fadeInUp" data-wow-delay="0.2s">
                 <div class="icon-box">
-                  <img src="/images/icon-services-1.svg" alt="" />
+                  <img src="/images/icons/icon1.png" alt="" />
                 </div>
                 <div class="service-content">
                   <h3>Construction Loans</h3>
@@ -280,7 +278,7 @@
             <div class="swiper-slide">
               <div class="service-item wow fadeInUp" data-wow-delay="0.4s">
                 <div class="icon-box">
-                  <img src="/images/icon-services-2.svg" alt="" />
+                  <img src="/images/icons/icon2.png" alt="" />
                 </div>
                 <div class="service-content">
                   <h3>Bridge Loans</h3>
@@ -299,7 +297,7 @@
             <div class="swiper-slide">
               <div class="service-item wow fadeInUp" data-wow-delay="0.6s">
                 <div class="icon-box">
-                  <img src="/images/icon-services-3.svg" alt="" />
+                  <img src="/images/icons/icon3.png" alt="" />
                 </div>
                 <div class="service-content">
                   <h3>SBA & USDA Loans</h3>
@@ -318,7 +316,7 @@
             <div class="swiper-slide">
               <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
                 <div class="icon-box">
-                  <img src="/images/icon-services-4.svg" alt="" />
+                  <img src="/images/icons/icon4.png" alt="" />
                 </div>
                 <div class="service-content">
                   <h3>1-4 Unit DSCR/Permanent Loans</h3>
@@ -336,7 +334,7 @@
             <div class="swiper-slide">
               <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
                 <div class="icon-box">
-                  <img src="/images/icon-services-4.svg" alt="" />
+                  <img src="/images/icons/icon5.png" alt="" />
                 </div>
                 <div class="service-content">
                   <h3>Commercial Real Estate Permanent Loans</h3>
@@ -355,7 +353,7 @@
             <div class="swiper-slide">
               <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
                 <div class="icon-box">
-                  <img src="/images/icon-services-4.svg" alt="" />
+                  <img src="/images/icons/icon6.png" alt="" />
                 </div>
                 <div class="service-content">
                   <h3>Mezzanine Finance & Preferred Equity</h3>
@@ -376,7 +374,7 @@
             <div class="swiper-slide">
               <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
                 <div class="icon-box">
-                  <img src="/images/icon-services-4.svg" alt="" />
+                  <img src="/images/icons/icon7.png" alt="" />
                 </div>
                 <div class="service-content">
                   <h3>Equipment Finance</h3>
@@ -395,7 +393,7 @@
             <div class="swiper-slide">
               <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
                 <div class="icon-box">
-                  <img src="/images/icon-services-4.svg" alt="" />
+                  <img src="/images/icons/icon8.png" alt="" />
                 </div>
                 <div class="service-content">
                   <h3>Accounts Receivable/Payable Finance</h3>
@@ -414,7 +412,7 @@
             <div class="swiper-slide">
               <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
                 <div class="icon-box">
-                  <img src="/images/icon-services-4.svg" alt="" />
+                  <img src="/images/icons/icon9.png" alt="" />
                 </div>
                 <div class="service-content">
                   <h3>Purchase Order Fiannce</h3>
@@ -528,7 +526,7 @@
               <!-- Why Choose Image Start -->
               <div class="why-choose-img">
                 <figure class="image-anime">
-                  <img src="/images/why-choose-image.jpg" alt="" />
+                  <img src="/images/about/why choose us.png" alt="" />
                 </figure>
               </div>
               <!-- Why Choose Image End -->
@@ -567,7 +565,7 @@
                 <h3>01</h3>
               </div>
               <div class="icon-box">
-                <img src="/images/icon-how-work-1.svg" alt="" />
+                <img src="/images/icon-how-work-1.png" alt="" />
               </div>
               <div class="how-work-content">
                 <h3>tailored solutions</h3>
@@ -587,7 +585,7 @@
                 <h3>02</h3>
               </div>
               <div class="icon-box">
-                <img src="/images/icon-how-work-2.svg" alt="" />
+                <img src="/images/icon-how-work-2.png" alt="" />
               </div>
               <div class="how-work-content">
                 <h3>easy enrollment</h3>
@@ -607,7 +605,7 @@
                 <h3>03</h3>
               </div>
               <div class="icon-box">
-                <img src="/images/icon-how-work-3.svg" alt="" />
+                <img src="/images/icon-how-work-3.png" alt="" />
               </div>
               <div class="how-work-content">
                 <h3>ongoing support</h3>
@@ -627,7 +625,7 @@
                 <h3>04</h3>
               </div>
               <div class="icon-box">
-                <img src="/images/icon-how-work-4.svg" alt="" />
+                <img src="/images/icon-how-work-4.png" alt="" />
               </div>
               <div class="how-work-content">
                 <h3>claims & adjustments</h3>
@@ -1171,14 +1169,14 @@
               <!-- CTA Box Image Start -->
               <div class="cta-box-img">
                 <figure class="">
-                  <img src="/images/cta-box-image.jpg" alt="" />
+                  <img src="/images/about/CTA.png" alt="" />
                 </figure>
               </div>
               <!-- CTA Box Image End -->
 
               <!-- CTA Contact Circle Start -->
               <div class="cta-contact-circle">
-                <img src="/images/cta-contact-circle.svg" alt="" />
+                <img src="/images/icons/cta-contact-circle.png " alt="" />
               </div>
               <!-- CTA Contact Circle End -->
             </div>

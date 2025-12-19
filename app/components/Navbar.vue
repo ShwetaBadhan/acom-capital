@@ -6,7 +6,7 @@
 				<div class="container">
 					<!-- Logo Start -->
 					<a class="navbar-brand" href="/">
-						<img src="/images/acom-logo.webp" alt="Logo" width="139" height="40">
+						<img src="/images/logo/acomlogo.png" alt="Logo">
 					</a>
 					<!-- Logo End -->
 
@@ -20,7 +20,7 @@
                                 <li class="nav-item"><a class="nav-link" href="/about-us">About Us</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/loan-programs">Loan Programs</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/deals-funded">Deals Funded</a></li> 
-                                <li class="nav-item"><a class="nav-link" href="/commerical-lending-mastery">Commercial Lending Mastery</a></li> 
+                                <li class="nav-item"><a class="nav-link" href="https://commerciallendingmastery.vibrantick.org/" target="_blank">Commercial Lending Mastery</a></li> 
                                 <!-- <li class="nav-item"><a class="nav-link" href="/contact-us">Contact Us</a></li>                              -->
                             </ul>
                         </div>

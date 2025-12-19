@@ -5,7 +5,7 @@
         <div class="modal-image">
           <button class="close-btn" @click="closeModal">&times;</button>
           <div class="image-content">
-            <img src="/images/about-image.jpg" alt="" />
+            <img src="/images/about/pop up.png" alt="" />
           </div>
         </div>
 

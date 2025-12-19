@@ -72,7 +72,7 @@
                 <div class="col-lg-2 col-md-6 col-12">
                     <!-- Footer Links Start -->
                     <div class="footer-links">
-                        <h3>usefull links</h3>
+                        <h3>useful links</h3>
                         <ul>
                             <li><a href="/contact-us">support</a></li>
                             <li><a href="/loan-programs">services</a></li>

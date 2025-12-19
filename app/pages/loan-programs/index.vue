@@ -35,7 +35,7 @@
             <!-- Services Item Start -->
             <div class="service-item wow fadeInUp" data-wow-delay="0.2s">
               <div class="icon-box">
-                <img src="/images/icon-services-1.svg" alt="" />
+                <img src="/images/icons/icon1.png" alt="" />
               </div>
               <div class="service-content">
                 <h3>Construction Loans</h3>
@@ -55,7 +55,7 @@
             <!-- Services Item Start -->
             <div class="service-item wow fadeInUp" data-wow-delay="0.4s">
               <div class="icon-box">
-                <img src="/images/icon-services-2.svg" alt="" />
+                <img src="/images/icons/icon2.png" alt="" />
               </div>
               <div class="service-content">
                 <h3>Bridge Loans</h3>
@@ -75,7 +75,7 @@
             <!-- Services Item Start -->
             <div class="service-item wow fadeInUp" data-wow-delay="0.6s">
               <div class="icon-box">
-                <img src="/images/icon-services-3.svg" alt="" />
+                <img src="/images/icons/icon3.png" alt="" />
               </div>
               <div class="service-content">
                 <h3>SBA & USDA Loans</h3>
@@ -95,7 +95,7 @@
             <!-- Services Item Start -->
             <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
               <div class="icon-box">
-                <img src="/images/icon-services-4.svg" alt="" />
+                <img src="/images/icons/icon4.png" alt="" />
               </div>
               <div class="service-content">
                 <h3>1-4 Unit DSCR/Permanent Loans</h3>
@@ -115,7 +115,7 @@
             <!-- Services Item Start -->
             <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
               <div class="icon-box">
-                <img src="/images/icon-services-4.svg" alt="" />
+                <img src="/images/icons/icon5.png" alt="" />
               </div>
               <div class="service-content">
                 <h3>Commercial Real Estate Permanent Loans</h3>
@@ -136,7 +136,7 @@
             <!-- Services Item Start -->
             <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
               <div class="icon-box">
-                <img src="/images/icon-services-4.svg" alt="" />
+                <img src="/images/icons/icon6.png" alt="" />
               </div>
               <div class="service-content">
                 <h3>Mezzanine Finance & Preferred Equity</h3>
@@ -158,7 +158,7 @@
             <!-- Services Item Start -->
             <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
               <div class="icon-box">
-                <img src="/images/icon-services-4.svg" alt="" />
+                <img src="/images/icons/icon7.png" alt="" />
               </div>
               <div class="service-content">
                 <h3>Equipment Finance</h3>
@@ -179,7 +179,7 @@
             <!-- Services Item Start -->
             <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
               <div class="icon-box">
-                <img src="/images/icon-services-4.svg" alt="" />
+                <img src="/images/icons/icon8.png" alt="" />
               </div>
               <div class="service-content">
                 <h3>Accounts Receivable/Payable Finance</h3>
@@ -199,7 +199,7 @@
             <!-- Services Item Start -->
             <div class="service-item wow fadeInUp" data-wow-delay="0.8s">
               <div class="icon-box">
-                <img src="/images/icon-services-4.svg" alt="" />
+                <img src="/images/icons/icon9.png" alt="" />
               </div>
               <div class="service-content">
                 <h3>Purchase Order Fiannce</h3>

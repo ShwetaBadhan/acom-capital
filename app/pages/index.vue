@@ -15,7 +15,7 @@
                 </h1>
                 <h2 class="text-white mt-2">Lending Since 2007 <br> 18+ years of Experience</h2>
                 <p class="wow fadeInUp">
-                  ACOM Capital helps businesses access tailored commercial lending solutions, from SBA and USDA loans to bridge and construction financing. With proven expertise and nationwide reach, we structure deals that drive growth and long-term success.
+                  ACOM Capital empowers businesses with customized commercial lending solutions, including SBA loans, USDA loans, bridge financing, and construction funding. Backed by proven expertise and a nationwide presence, we structure strategic financial solutions that fuel business growth and long-term success.
                 </p>
               </div>
               <!-- Section Title End -->
@@ -156,13 +156,12 @@
                 <h3 class="wow fadeInUp">about us</h3>
 
                 <h2 class="text-anime-style-2" data-cursor="-opaque">
-                  We are <span>passionate about achieving </span>better results
-                  for our clients
+                  Turning <span>Complex Ambitions</span> into Funded Realities: Decades of Expertise in Every Deal.
+
+                 
                 </h2>
                 <p class="wow fadeInUp" data-wow-delay="0.25s">
-                  we offer a range of plans tailored to meet your unique needs.
-                  Let us help you find the right protection, so you can live
-                  with peace of mind.
+                  At ACOM Capital, we believe that the right capital structure is the foundation of every great business achievement. With over 18 years of industry-leading experience, we have evolved into a premier destination for businesses seeking more than just a loan—they seek a strategic partner.
                 </p>
               </div>
               <!-- Section Title End -->
@@ -178,10 +177,10 @@
                         data-wow-delay="0.5s"
                       >
                         <ul>
-                          <li>Customer-Centric Approach</li>
-                          <li>Transparent Communication</li>
-                          <li>365 / 24x7 Quick Supports</li>
-                          <li>Critical Illness Insurance</li>
+                          <li>Customized Commercial Funding Strategies</li>
+                          <li>Strategic Solutions for Long-Term Growth</li>
+                          <li>Nationwide Presence and Reliable Expertise</li>
+                          <li>Customer Centric Approach</li>
                         </ul>
                       </div>
                       <!-- About Content List End -->
@@ -448,13 +447,12 @@
               <div class="section-title">
                 <h3 class="wow fadeInUp">why choose us</h3>
                 <h2 class="text-anime-style-2" data-cursor="-opaque">
-                  Why you <span>should choose</span> our insurance policy's
+                  The Bridge <span>to Your Capital</span> : Connecting Ambition with Opportunity.
+
                 </h2>
                 <p class="wow fadeInUp" data-wow-delay="0.25s">
-                  Choose our insurance policies for comprehensive coverage,
-                  personalized service, and affordable rates. We offer quick
-                  claims processing and expert support, ensuring peace of mind
-                  and protection for your future.
+                  We understand that navigating the gap between a complex project and a funded deal requires more than just a connection—it requires a partner who can architect the deal to perfection.
+
                 </p>
               </div>
               <!-- Section Title End -->
@@ -470,7 +468,7 @@
                     <img src="/images/icon-why-choose-1.svg" alt="" />
                   </div>
                   <div class="why-choose-item-content">
-                    <h3>control over policy</h3>
+                    <h3>Tailored Financing Solutions</h3>
                   </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -481,7 +479,7 @@
                     <img src="/images/icon-why-choose-2.svg" alt="" />
                   </div>
                   <div class="why-choose-item-content">
-                    <h3>affordable premiums</h3>
+                    <h3>Comprehensive Loan Options</h3>
                   </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -495,7 +493,7 @@
                     <img src="/images/icon-why-choose-3.svg" alt="" />
                   </div>
                   <div class="why-choose-item-content">
-                    <h3>fast & easy process</h3>
+                    <h3>Fast, Efficient, and Transparent Process</h3>
                   </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -506,7 +504,7 @@
                     <img src="/images/icon-why-choose-4.svg" alt="" />
                   </div>
                   <div class="why-choose-item-content">
-                    <h3>24/7 supports</h3>
+                    <h3>Relationship-Driven Approach</h3>
                   </div>
                 </div>
                 <!-- Why Choose Item End -->
@@ -642,138 +640,7 @@
     </div>
     <!-- How It Work Section End -->
 
-    <!-- Our Features Section Start -->
-    <div class="our-features">
-      <div class="container">
-        <div class="row section-row">
-          <!-- Section Title Start -->
-          <div class="section-title">
-            <h3 class="wow fadeInUp">our feature</h3>
-            <h2 class="text-anime-style-2" data-cursor="-opaque">
-              Discover our key <span>insurance features</span>
-            </h2>
-            <p class="wow fadeInUp" data-wow-delay="0.25s">
-              Explore the standout features of our insurance plans, designed to
-              offer you comprehensive protection, flexible options, and
-              exceptional service
-            </p>
-          </div>
-          <!-- Section Title End -->
-        </div>
-
-        <div class="row">
-          <div class="col-lg-3 col-md-6">
-            <!-- Features Item Start -->
-            <div class="features-item">
-              <div class="icon-box">
-                <img src="/images/icon-features-1.svg" alt="" />
-              </div>
-              <div class="features-content">
-                <h3>Customizable Plans</h3>
-                <p>
-                  Personalize your coverage your needs and budget, the
-                  protection that works best for you.
-                </p>
-              </div>
-            </div>
-            <!-- Features Item End -->
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <!-- Features Item Start -->
-            <div class="features-item" data-wow-delay="0.25s">
-              <div class="icon-box">
-                <img src="/images/icon-features-2.svg" alt="" />
-              </div>
-              <div class="features-content">
-                <h3>multi-policy discounts</h3>
-                <p>
-                  Personalize your coverage your needs and budget, the
-                  protection that works best for you.
-                </p>
-              </div>
-            </div>
-            <!-- Features Item End -->
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <!-- Features Item Start -->
-            <div class="features-item" data-wow-delay="0.5s">
-              <div class="icon-box">
-                <img src="/images/icon-features-3.svg" alt="" />
-              </div>
-              <div class="features-content">
-                <h3>accident forgiveness</h3>
-                <p>
-                  Personalize your coverage your needs and budget, the
-                  protection that works best for you.
-                </p>
-              </div>
-            </div>
-            <!-- Features Item End -->
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <!-- Features Item Start -->
-            <div class="features-item" data-wow-delay="0.75s">
-              <div class="icon-box">
-                <img src="/images/icon-features-4.svg" alt="" />
-              </div>
-              <div class="features-content">
-                <h3>home replacement cost</h3>
-                <p>
-                  Personalize your coverage your needs and budget, the
-                  protection that works best for you.
-                </p>
-              </div>
-            </div>
-            <!-- Features Item End -->
-          </div>
-        </div>
-
-        <div class="row">
-          <!-- Our Counter Box Start -->
-          <div class="our-counter-box">
-            <!-- Counter Item Start -->
-            <div class="counter-item">
-              <h2><span class="counter">5800</span>+</h2>
-              <p>doctors</p>
-            </div>
-            <!-- Counter Item End -->
-
-            <!-- Counter Item Start -->
-            <div class="counter-item">
-              <h2><span class="counter">1497</span>+</h2>
-              <p>clinics</p>
-            </div>
-            <!-- Counter Item End -->
-
-            <!-- Counter Item Start -->
-            <div class="counter-item">
-              <h2><span class="counter">377</span>+</h2>
-              <p>labs</p>
-            </div>
-            <!-- Counter Item End -->
-
-            <!-- Counter Item Start -->
-            <div class="counter-item">
-              <h2><span class="counter">156</span>+</h2>
-              <p>partner hospitals</p>
-            </div>
-            <!-- Counter Item End -->
-
-            <!-- Counter Item Start -->
-            <div class="counter-item">
-              <h2><span class="counter">16</span>+</h2>
-              <p>brazilian states</p>
-            </div>
-            <!-- Counter Item End -->
-          </div>
-          <!-- Our Counter Box End -->
-        </div>
-      </div>
-    </div>
-    <!-- Our Features Section End -->
+  
     <!-- Page Team Start -->
     <div class="page-team">
       <div class="container">
@@ -1214,145 +1081,7 @@
     </div>
     <!-- CTA Box Section End -->
 
-    <!-- Our Pricing Section Start -->
-    <div class="our-pricing">
-      <div class="container">
-        <div class="row section-row">
-          <!-- Section Title Start -->
-          <div class="section-title">
-            <h3 class="wow fadeInUp">pricing plan</h3>
-            <h2 class="text-anime-style-2" data-cursor="-opaque">
-              Insurance <span>pricing plans</span> affordable coverage for every
-              budget
-            </h2>
-          </div>
-          <!-- Section Title End -->
-        </div>
-
-        <div class="row">
-          <div class="col-lg-4 col-md-6">
-            <!-- Pricing Item Start -->
-            <div class="pricing-item wow fadeInUp">
-              <!-- Pricing Header Start -->
-              <div class="pricing-header">
-                <h2>$19<sub> / per month</sub></h2>
-              </div>
-              <!-- Pricing Header End -->
-
-              <!-- Pricing Body Start -->
-              <div class="pricing-body">
-                <!-- Pricing Title Start -->
-                <div class="pricing-title">
-                  <h3>starter plan</h3>
-                </div>
-                <!-- Pricing Title End -->
-
-                <!-- Pricing List Start -->
-                <div class="pricing-list">
-                  <ul>
-                    <li>Invoices/Estimates</li>
-                    <li>Online Payments</li>
-                    <li>Projects and Time Sheet</li>
-                  </ul>
-                </div>
-                <!-- Pricing List End -->
-              </div>
-              <!-- Pricing Body End -->
-
-              <!-- Pricing Btn Start -->
-              <div class="pricing-btn">
-                <a href="#" class="btn-default">select policy</a>
-              </div>
-              <!-- Pricing Btn End -->
-            </div>
-            <!-- Pricing Item End -->
-          </div>
-
-          <div class="col-lg-4 col-md-6">
-            <!-- Pricing Item Start -->
-            <div
-              class="pricing-item highlighted-box wow fadeInUp"
-              data-wow-delay="0.25s"
-            >
-              <!-- Pricing Header Start -->
-              <div class="pricing-header">
-                <h2>$49<sub> / per month</sub></h2>
-              </div>
-              <!-- Pricing Header End -->
-
-              <!-- Pricing Body Start -->
-              <div class="pricing-body">
-                <!-- Pricing Title Start -->
-                <div class="pricing-title">
-                  <h3>business plan</h3>
-                </div>
-                <!-- Pricing Title End -->
-
-                <!-- Pricing List Start -->
-                <div class="pricing-list">
-                  <ul>
-                    <li>Invoices/Estimates</li>
-                    <li>Online Payments</li>
-                    <li>Projects and Time Sheet</li>
-                  </ul>
-                </div>
-                <!-- Pricing List End -->
-              </div>
-              <!-- Pricing Body End -->
-
-              <!-- Pricing Btn Start -->
-              <div class="pricing-btn">
-                <a href="#" class="btn-default btn-highlighted"
-                  >select policy</a
-                >
-              </div>
-              <!-- Pricing Btn End -->
-            </div>
-            <!-- Pricing Item End -->
-          </div>
-
-          <div class="col-lg-4 col-md-6">
-            <!-- Pricing Item Start -->
-            <div class="pricing-item wow fadeInUp" data-wow-delay="0.5s">
-              <!-- Pricing Header Start -->
-              <div class="pricing-header">
-                <h2>$89<sub> / per month</sub></h2>
-              </div>
-              <!-- Pricing Header End -->
-
-              <!-- Pricing Body Start -->
-              <div class="pricing-body">
-                <!-- Pricing Title Start -->
-                <div class="pricing-title">
-                  <h3>premium custom plan</h3>
-                </div>
-                <!-- Pricing Title End -->
-
-                <!-- Pricing List Start -->
-                <div class="pricing-list">
-                  <ul>
-                    <li>Invoices/Estimates</li>
-                    <li>Online Payments</li>
-                    <li>Projects and Time Sheet</li>
-                  </ul>
-                </div>
-                <!-- Pricing List End -->
-              </div>
-              <!-- Pricing Body End -->
-
-              <!-- Pricing Btn Start -->
-              <div class="pricing-btn">
-                <a href="#" class="btn-default">select policy</a>
-              </div>
-              <!-- Pricing Btn End -->
-            </div>
-            <!-- Pricing Item End -->
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Our Pricing Section End -->
-
+   
     <!-- Support Team Section Start -->
     <div class="support-team">
       <div class="container">

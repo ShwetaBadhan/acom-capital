@@ -203,7 +203,7 @@
                       <!-- About Counter Item Start -->
                       <div class="about-counter-item">
                         <div class="about-counter">
-                          <h2><span class="counter">98</span>%</h2>
+                          <h2><span class="counter">92</span>%</h2>
                         </div>
                         <div class="about-counter-content">
                           <p>success rate</p>

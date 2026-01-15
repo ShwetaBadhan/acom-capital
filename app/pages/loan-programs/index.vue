@@ -45,7 +45,7 @@
                 </p>
               </div>
               <div class="service-btn">
-                <a href="#" class="redmore-btn">learn more</a>
+                <a href="/construction-loans" class="redmore-btn">learn more</a>
               </div>
             </div>
             <!-- Services Item End -->
@@ -65,7 +65,7 @@
                 </p>
               </div>
               <div class="service-btn">
-                <a href="#" class="redmore-btn">learn more</a>
+                <a href="/bridge-loans" class="redmore-btn">learn more</a>
               </div>
             </div>
             <!-- Services Item End -->
@@ -85,7 +85,7 @@
                 </p>
               </div>
               <div class="service-btn">
-                <a href="#" class="redmore-btn">learn more</a>
+                <a href="/sba-usda-loans" class="redmore-btn">learn more</a>
               </div>
             </div>
             <!-- Services Item End -->
@@ -105,7 +105,7 @@
                 </p>
               </div>
               <div class="service-btn">
-                <a href="#" class="redmore-btn">learn more</a>
+                <a href="/permanent-loans" class="redmore-btn">learn more</a>
               </div>
             </div>
             <!-- Services Item End -->
@@ -126,7 +126,7 @@
                 </p>
               </div>
               <div class="service-btn">
-                <a href="#" class="redmore-btn">learn more</a>
+                <a href="/real-estate-permanent-loans" class="redmore-btn">learn more</a>
               </div>
             </div>
             <!-- Services Item End -->
@@ -148,7 +148,7 @@
                 </p>
               </div>
               <div class="service-btn">
-                <a href="#" class="redmore-btn">learn more</a>
+                <a href="/mezzanine-finance" class="redmore-btn">learn more</a>
               </div>
             </div>
             <!-- Services Item End -->
@@ -169,7 +169,7 @@
                 </p>
               </div>
               <div class="service-btn">
-                <a href="#" class="redmore-btn">learn more</a>
+                <a href="/equipment-finance" class="redmore-btn">learn more</a>
               </div>
             </div>
             <!-- Services Item End -->
@@ -190,7 +190,7 @@
                 </p>
               </div>
               <div class="service-btn">
-                <a href="#" class="redmore-btn">learn more</a>
+                <a href="/accounts-receivable" class="redmore-btn">learn more</a>
               </div>
             </div>
             <!-- Services Item End -->
@@ -210,7 +210,7 @@
                 </p>
               </div>
               <div class="service-btn">
-                <a href="#" class="redmore-btn">learn more</a>
+                <a href="/purchase-order-finance" class="redmore-btn">learn more</a>
               </div>
             </div>
             <!-- Services Item End -->

@@ -203,7 +203,7 @@
                       <!-- About Counter Item Start -->
                       <div class="about-counter-item">
                         <div class="about-counter">
-                          <h2><span class="counter">100</span>%</h2>
+                          <h2><span class="counter">98</span>%</h2>
                         </div>
                         <div class="about-counter-content">
                           <p>success rate</p>
@@ -268,7 +268,7 @@
                   </p>
                 </div>
                 <div class="service-btn">
-                  <a href="#" class="redmore-btn">learn more</a>
+                  <a href="/construction-loans" class="redmore-btn">learn more</a>
                 </div>
               </div>
             </div>
@@ -287,7 +287,7 @@
                   </p>
                 </div>
                 <div class="service-btn">
-                  <a href="#" class="redmore-btn">learn more</a>
+                  <a href="/bridge-loans" class="redmore-btn">learn more</a>
                 </div>
               </div>
             </div>
@@ -306,7 +306,7 @@
                   </p>
                 </div>
                 <div class="service-btn">
-                  <a href="#" class="redmore-btn">learn more</a>
+                  <a href="/sba-usda-loans" class="redmore-btn">learn more</a>
                 </div>
               </div>
             </div>
@@ -325,7 +325,7 @@
                   </p>
                 </div>
                 <div class="service-btn">
-                  <a href="#" class="redmore-btn">learn more</a>
+                  <a href="/permanent-loans" class="redmore-btn">learn more</a>
                 </div>
               </div>
             </div>
@@ -344,7 +344,7 @@
                   </p>
                 </div>
                 <div class="service-btn">
-                  <a href="#" class="redmore-btn">learn more</a>
+                  <a href="/real-estate-permanent-loans" class="redmore-btn">learn more</a>
                 </div>
               </div>
             </div>
@@ -364,7 +364,7 @@
                   </p>
                 </div>
                 <div class="service-btn">
-                  <a href="#" class="redmore-btn">learn more</a>
+                  <a href="/mezzanine-finance" class="redmore-btn">learn more</a>
                 </div>
               </div>
             </div>
@@ -384,7 +384,7 @@
                   </p>
                 </div>
                 <div class="service-btn">
-                  <a href="#" class="redmore-btn">learn more</a>
+                  <a href="/equipment-finance" class="redmore-btn">learn more</a>
                 </div>
               </div>
             </div>
@@ -403,7 +403,7 @@
                   </p>
                 </div>
                 <div class="service-btn">
-                  <a href="#" class="redmore-btn">learn more</a>
+                  <a href="/accounts-receivable" class="redmore-btn">learn more</a>
                 </div>
               </div>
             </div>
@@ -414,7 +414,7 @@
                   <img src="/images/icons/icon9.png" alt="" />
                 </div>
                 <div class="service-content">
-                  <h3>Purchase Order Fiannce</h3>
+                  <h3>Purchase Order Finance</h3>
                   <p>
                     Financing that covers supplier costs for approved purchase
                     orders, enabling businesses to fulfill large orders without
@@ -422,7 +422,7 @@
                   </p>
                 </div>
                 <div class="service-btn">
-                  <a href="#" class="redmore-btn">learn more</a>
+                  <a href="/purchase-order-finance" class="redmore-btn">learn more</a>
                 </div>
               </div>
             </div>
@@ -568,7 +568,7 @@
               <div class="how-work-content">
                 <h3>tailored solutions</h3>
                 <p>
-                  Our experts craft a personalized insurance plan that fits your
+                  Our experts craft a personalized commercial lending plan that fits your
                   lifestyle.
                 </p>
               </div>
@@ -649,7 +649,7 @@
           <div class="section-title">
             <h3 class="wow fadeInUp">Our Team</h3>
             <h2 class="text-anime-style-2" data-cursor="-opaque">
-              Insurance <span>pricing plans</span> affordable coverage for every
+              commercial lending <span>pricing plans</span> affordable coverage for every
               budget
             </h2>
           </div>
@@ -1056,12 +1056,12 @@
               <!-- Section Title Start -->
               <div class="section-title">
                 <h2 class="text-anime-style-2" data-cursor="-opaque">
-                  What matters most get your free insurance
+                  What matters most get your free commercial lending
                   <span>quote today!</span>
                 </h2>
                 <p class="wow fadeInUp">
                   Whether it's your home, health, car, or business, we've got
-                  you covered. Get your free insurance quote today and discover
+                  you covered. Get your free commercial lending quote today and discover
                   the peace of mind that comes with reliable, comprehensive
                   protection tailored to your needs.
                 </p>
@@ -1093,7 +1093,7 @@
               We're <span>here to help,</span> 24/7.
             </h2>
             <p class="wow fadeInUp" data-wow-delay="0.25s">
-              Explore the standout features of our insurance plans, designed to
+              Explore the standout features of our commercial lending plans, designed to
               offer you comprehensive protection, flexible options, and
               exceptional service
             </p>
@@ -1149,7 +1149,7 @@
               </div>
               <div class="support-team-content">
                 <p>Call us now:</p>
-                <h3>+01 788 852 684</h3>
+                <h3>+619-738-6474</h3>
               </div>
             </div>
             <!-- Support Team Item End -->
@@ -1161,7 +1161,7 @@
               </div>
               <div class="support-team-content">
                 <p>Email us:</p>
-                <h3>support@example.com</h3>
+                <h3>info@acomcapital.com</h3>
               </div>
             </div>
             <!-- Support Team Item End -->
@@ -1188,7 +1188,7 @@
                 <p class="wow fadeInUp" data-wow-delay="0.25s">
                   Explore our Frequently Asked Questions for quick answers on
                   policies, claims, and coverage, helping you make informed
-                  insurance decisions.
+                  commercial lending decisions.
                 </p>
               </div>
               <!-- Section Title End -->
@@ -1242,7 +1242,7 @@
                       aria-expanded="true"
                       aria-controls="collapse1"
                     >
-                      <span>01.</span> What types of insurance do you offer?
+                      <span>01.</span> What types of commercial lending do you offer?
                     </button>
                   </h2>
                   <div
@@ -1273,7 +1273,7 @@
                       aria-expanded="false"
                       aria-controls="collapse2"
                     >
-                      <span>02.</span> How do I choose the right insurance plan?
+                      <span>02.</span> How do I choose the right commercial lending plan?
                     </button>
                   </h2>
                   <div
@@ -1366,7 +1366,7 @@
                       aria-expanded="false"
                       aria-controls="collapse5"
                     >
-                      <span>05.</span> What is the process for insurance
+                      <span>05.</span> What is the process for commercial lending
                       calculated?
                     </button>
                   </h2>
@@ -1444,26 +1444,20 @@
                       <div class="testimonial-item">
                         <div class="testimonial-header">
                           <div class="testimonial-content">
-                            <p>
-                              "As a small business owner, I needed reliable
-                              coverage. provided comprehensive options tailored
-                              to my needs. Their support has been invaluable.
-                              Their disability coverage kept me afloat during a
-                              tough time. I'm forever grateful. Their team is
-                              always ready to help, and I'm confident I'm well
-                              protected."
+                            <p align="justify">
+                              "Acom Capital has helped many of my clients to obtain real estate financing. They are very really reliable and hard working people. They have lots of knowledge about Bridge Loans, Fix & Flips Loans, Ground up Construction Loans, Investment properties loans, DSCR Loans. I highly recommend their services to everyone who is looking for purchase or refinance their real estate projects."
                             </p>
                           </div>
                         </div>
                         <div class="testimonial-body">
                           <div class="author-image">
                             <figure class="image-anime">
-                              <img src="/images/author-1.jpg" alt="" />
+                              <img src="https://lh3.googleusercontent.com/a-/ALV-UjV_ioJAxJtexjKlAj0vA3VqKPxtgz_0Ng2_kQvHkQJMt3-cEGcQ=w36-h36-p-rp-mo-br100" alt="" />
                             </figure>
                           </div>
                           <div class="author-content">
-                            <h3>michael R.</h3>
-                            <p>business insurance</p>
+                            <h3>Preet Judge.</h3>
+                            <!-- <p>business commercial lending</p> -->
                           </div>
                         </div>
                       </div>
@@ -1475,14 +1469,8 @@
                       <div class="testimonial-item">
                         <div class="testimonial-header">
                           <div class="testimonial-content">
-                            <p>
-                              "As a small business owner, I needed reliable
-                              coverage. provided comprehensive options tailored
-                              to my needs. Their support has been invaluable.
-                              Their disability coverage kept me afloat during a
-                              tough time. I'm forever grateful. Their team is
-                              always ready to help, and I'm confident I'm well
-                              protected."
+                            <p align="justify">
+                              "Acom Capital helped me with my purchase and rehab loan in San Diego , California. I am very satisfied with their services. They closed the deal on time and everything was explained properly before the closing. I highly recommend their commercial and residential loan services to all the real estate investors and real estate professionals."
                             </p>
                           </div>
                         </div>
@@ -1493,8 +1481,32 @@
                             </figure>
                           </div>
                           <div class="author-content">
-                            <h3>dianne russell</h3>
-                            <p>co. founder</p>
+                            <h3>Narinder Sangha</h3>
+                            <!-- <p>co. founder</p> -->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- Testimonial Slide End -->
+                    <!-- Testimonial Slide Start -->
+                    <div class="swiper-slide">
+                      <div class="testimonial-item">
+                        <div class="testimonial-header">
+                          <div class="testimonial-content">
+                            <p align="justify">
+                              "Raja Maan at Acom Capital has extensive expertise in construction and commercial real estate loans. Their help is always consistent throughout the process. When it comes to financing for residential and commercial properties, we can't recommend them enough. They’re extremely knowledgeable and can close quickly."
+                            </p>
+                          </div>
+                        </div>
+                        <div class="testimonial-body">
+                          <div class="author-image">
+                            <figure class="image-anime">
+                              <img src="/images/author-1.jpg" alt="" />
+                            </figure>
+                          </div>
+                          <div class="author-content">
+                            <h3>User</h3>
+                            <!-- <p>co. founder</p> -->
                           </div>
                         </div>
                       </div>
@@ -1525,10 +1537,10 @@
           <div class="section-title">
             <h3 class="wow fadeInUp">post / news</h3>
             <h2 class="text-anime-style-2" data-cursor="-opaque">
-              Our Latest <span>Insurance News</span> and Tips
+              Our Latest <span>commercial lending News</span> and Tips
             </h2>
             <p class="wow fadeInUp" data-wow-delay="0.25s">
-              Stay informed with our latest insurance news and tips. From expert
+              Stay informed with our latest commercial lending news and tips. From expert
               advice on coverage to industry updates, we provide valuable
               insights to help you.
             </p>
@@ -1569,19 +1581,19 @@
                 <div class="highlighted-blog-content">
                   <h3>
                     <a href="#"
-                      >The Role of Disability Insurance in Your Financial
+                      >The Role of Disability commercial lending in Your Financial
                       Plan</a
                     >
                   </h3>
                   <p>
-                    Why disability insurance is critical in a comprehensive
+                    Why disability commercial lending is critical in a comprehensive
                     financial plan.
                   </p>
                 </div>
                 <!-- Highlighted blog Content End -->
 
                 <div class="highlighted-blog-btn">
-                  <a href="#" class="redmore-btn">read more</a>
+                  <a href="/blog-details" class="redmore-btn">read more</a>
                 </div>
               </div>
               <!-- Highlighted blog Body End -->
@@ -1621,10 +1633,10 @@
                   <!-- Article Post Content Start -->
                   <div class="article-post-content">
                     <h3>
-                      <a href="#">How to Choose Right Health Insurance Plan</a>
+                      <a href="#">How to Choose Right Health commercial lending Plan</a>
                     </h3>
                     <p>
-                      A guide to understanding the basics of health insurance
+                      A guide to understanding the basics of health commercial lending
                       coverage.
                     </p>
                   </div>
@@ -1632,7 +1644,7 @@
 
                   <!-- Article Post Readmore Button Start-->
                   <div class="article-post-btn">
-                    <a href="#" class="redmore-btn">learn more</a>
+                    <a href="/blog-details" class="redmore-btn">learn more</a>
                   </div>
                   <!-- Article Post Readmore Button End-->
                 </div>
@@ -1671,11 +1683,11 @@
                   <div class="article-post-content">
                     <h3>
                       <a href="#"
-                        >How to Buy Travel Insurance for International Trips</a
+                        >How to Buy Travel commercial lending for International Trips</a
                       >
                     </h3>
                     <p>
-                      Explores the different kinds of life insurance and their
+                      Explores the different kinds of life commercial lending and their
                       advantages.
                     </p>
                   </div>
@@ -1683,7 +1695,7 @@
 
                   <!-- Article Post Readmore Button Start-->
                   <div class="article-post-btn">
-                    <a href="#" class="redmore-btn">learn more</a>
+                    <a href="/blog-details" class="redmore-btn">learn more</a>
                   </div>
                   <!-- Article Post Readmore Button End-->
                 </div>

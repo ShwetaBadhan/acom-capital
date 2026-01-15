@@ -88,10 +88,10 @@
                     <div class="footer-links">
                         <h3>our services</h3>
                         <ul>
-                            <li><a href="/loan-programs">Construction Loans</a></li>
-                            <li><a href="/loan-programs">Bridge Loans</a></li>
-                            <li><a href="/loan-programs">SBA & USDA Loans</a></li>
-                            <li><a href="/loan-programs">Equipment Finance</a></li>
+                            <li><a href="/construction-loans">Construction Loans</a></li>
+                            <li><a href="/bridge-loans">Bridge Loans</a></li>
+                            <li><a href="/sba-usda-loans">SBA & USDA Loans</a></li>
+                            <li><a href="/equipment-finance">Equipment Finance</a></li>
                         </ul>
                     </div>
                     <!-- Footer Links End -->
@@ -102,9 +102,9 @@
                     <div class="footer-links">
                         <h3>get in touch</h3>
                         <ul>
-                            <li><a href="#">+01 789 852 654</a></li>
-                            <li><a href="#">support@domain.com</a></li>
-                            <li><a href="#">Insurance way, suite 100, Metropolis, NY 10001, USA</a></li>
+                            <li><a href="tel:+6197386474">+619-738-6474</a></li>
+                            <li><a href="mailto:info@acomcapital.com">info@acomcapital.com</a></li>
+                            <li><a href="#">120 Newport Center Dr, Newport Beach, CA 92660, United States</a></li>
                         </ul>
                     </div>
                     <!-- Footer Links End -->

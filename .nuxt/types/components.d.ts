@@ -16,8 +16,10 @@ type LazyComponent<T> = DefineComponent<HydrationStrategies, {}, {}, {}, {}, {},
 interface _GlobalComponents {
   'AffiliatedLenders': typeof import("../../app/components/AffiliatedLenders.vue")['default']
   'Footer': typeof import("../../app/components/Footer.vue")['default']
+  'ModalPopup': typeof import("../../app/components/ModalPopup.vue")['default']
   'Navbar': typeof import("../../app/components/Navbar.vue")['default']
   'PopupForm': typeof import("../../app/components/PopupForm.vue")['default']
+  'Sidebar': typeof import("../../app/components/Sidebar.vue")['default']
   'TopHeader': typeof import("../../app/components/TopHeader.vue")['default']
   'NuxtWelcome': typeof import("../../node_modules/nuxt/dist/app/components/welcome.vue")['default']
   'NuxtLayout': typeof import("../../node_modules/nuxt/dist/app/components/nuxt-layout")['default']
@@ -44,8 +46,10 @@ interface _GlobalComponents {
   'NuxtIsland': typeof import("../../node_modules/nuxt/dist/app/components/nuxt-island")['default']
   'LazyAffiliatedLenders': LazyComponent<typeof import("../../app/components/AffiliatedLenders.vue")['default']>
   'LazyFooter': LazyComponent<typeof import("../../app/components/Footer.vue")['default']>
+  'LazyModalPopup': LazyComponent<typeof import("../../app/components/ModalPopup.vue")['default']>
   'LazyNavbar': LazyComponent<typeof import("../../app/components/Navbar.vue")['default']>
   'LazyPopupForm': LazyComponent<typeof import("../../app/components/PopupForm.vue")['default']>
+  'LazySidebar': LazyComponent<typeof import("../../app/components/Sidebar.vue")['default']>
   'LazyTopHeader': LazyComponent<typeof import("../../app/components/TopHeader.vue")['default']>
   'LazyNuxtWelcome': LazyComponent<typeof import("../../node_modules/nuxt/dist/app/components/welcome.vue")['default']>
   'LazyNuxtLayout': LazyComponent<typeof import("../../node_modules/nuxt/dist/app/components/nuxt-layout")['default']>

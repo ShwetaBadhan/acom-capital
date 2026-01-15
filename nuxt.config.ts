@@ -51,6 +51,8 @@ export default defineNuxtConfig({
         { src: '/js/jquery.mb.YTPlayer.min.js', tagPosition: 'bodyClose', defer: true },
         { src: '/js/wow.js', tagPosition: 'bodyClose', defer: true },
         { src: '/js/function.js', tagPosition: 'bodyClose', defer: true },
+        
+
       ],
     },
   },
